@@ -1,10 +1,14 @@
-Eprints export plugin for publisher / event location data on Google Maps
-===
+# Eprints export plugin for publisher / event location data on Google Maps
 
-(Notice: Does not work without the Eprints package which is available from the University of Southampton)
 
-Brief overview of the plugin: 
+Requirements
+-
+* Soton Eprints package for Perl.
 
+
+
+Overview
+-
 
 
 Basic data is extracted from eprints objects such as a title, author names and date, and a marker is placed in Google Maps on the location of the publisher / event.
